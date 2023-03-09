@@ -6,6 +6,8 @@
 
 * CSS
 
+* (Learning... JavaScript)
+
 * Flex-box
 
 ## Made by:
