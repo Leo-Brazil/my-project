@@ -8,7 +8,7 @@
 
 * Flex-box
 
-## Studying...:
+## Studying:
 
 * JavaScript
 
