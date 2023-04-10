@@ -6,6 +6,8 @@
 
 * CSS
 
+* JavaScript
+
 * Flex-box
 
 ## Studying:
